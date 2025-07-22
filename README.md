@@ -70,3 +70,6 @@ In your extension's shopify.extension.toml file:
 target = "admin.product-details.action.link"
 url = "/admin-product-management"
 ```
+Here, the url will define what will be the view for the action in 'admin-product-management.tsx' file.
+
+To change the name of the action, visit 'action_folder/locales/en.default.json'
