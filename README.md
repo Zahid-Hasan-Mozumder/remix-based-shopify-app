@@ -1,4 +1,4 @@
-# Shopify App using Remix and Shopify CLI
+# Shopify App using Remix and Shopify CLI for Admin Action
 
 This project is a custom Shopify App built using **Remix**, **TypeScript**, and the **Shopify CLI**. It includes steps to initialize the app, set up a development environment, create extensions, and configure custom actions within the Shopify admin.
 
